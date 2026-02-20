@@ -1,9 +1,12 @@
 🗄 SQL Sales Data Analysis Project – Star Schema Model
+
+
 📌 Project Overview
 
 This project demonstrates the design and implementation of a Sales Data Warehouse using a Star Schema model in PostgreSQL.
 
 The raw sales dataset was transformed into a structured data model with fact and dimension tables to improve data integrity, reduce redundancy, and enable efficient analytical querying.
+
 
 🎯 Business Problem
 
@@ -20,6 +23,7 @@ Slow query performance
 Poor scalability
 
 The goal was to normalize the dataset into a star schema and perform analytical queries for business insights.
+
 
 🏗 Data Modeling Approach
 🔹 Star Schema Structure
